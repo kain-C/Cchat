@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cchat</string>
+    <string name="inicio">Home</string>
+    <string name="buscar">Search</string>
+    <string name="perfil">Profile</string>
+    <string name="message">Message</string>
+    <string name="listUser">ListUser</string>
+    <string name="listmessage">listMessage</string>
+    <!-- TODO: Remove or change this placeholder textPost -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

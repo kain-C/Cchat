@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "project_number": "352933656325",
+    "firebase_url": "https://cchat-742c5-default-rtdb.firebaseio.com",
+    "project_id": "cchat-742c5",
+    "storage_bucket": "cchat-742c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352933656325:android:7096c93c50868ed86d696c",
+        "android_client_info": {
+          "package_name": "App.aplicacion.cchat_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0swTZ9EF1pNqL971Iiy3R8qLj_xEopPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352933656325:android:48e60303846e5cb16d696c",
+        "android_client_info": {
+          "package_name": "com.aplicacion.cchat_0_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0swTZ9EF1pNqL971Iiy3R8qLj_xEopPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352933656325:android:d55a2792aecbb0296d696c",
+        "android_client_info": {
+          "package_name": "com.example.cchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0swTZ9EF1pNqL971Iiy3R8qLj_xEopPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352933656325:android:391a87cf7671ab726d696c",
+        "android_client_info": {
+          "package_name": "com.example.cchat11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352933656325-ceqrdr22cnu1u0srjk8anlcl0soulboo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cchat11",
+            "certificate_hash": "883dc35de8564fcffc16fd7e965c1431db436972"
+          }
+        },
+        {
+          "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0swTZ9EF1pNqL971Iiy3R8qLj_xEopPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352933656325:android:390b531e73e9b89a6d696c",
+        "android_client_info": {
+          "package_name": "com.example.cchat_0_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0swTZ9EF1pNqL971Iiy3R8qLj_xEopPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352933656325:android:2ff6917ff6f4693d6d696c",
+        "android_client_info": {
+          "package_name": "com.proyecto.cchat_version1_proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0swTZ9EF1pNqL971Iiy3R8qLj_xEopPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352933656325-don3qtkda33vsnog0b530llpjbhj5iru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
